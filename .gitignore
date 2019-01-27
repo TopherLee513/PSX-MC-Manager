@@ -2,6 +2,10 @@
 .gradle
 /local.properties
 .idea
+/app/build/intermediates
+/app/build/generated
+/app/build/outputs/apk/debug/output.json
+/app/build/outputs/apk/debug/manifest-merger-debug-report.txt
 /.idea/caches
 /.idea/codeStyles
 /.idea/libraries
