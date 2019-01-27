@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 8
-    buildToolsVersion "22.0.1"
+    compileSdkVersion 26
+    buildToolsVersion "28.0.3"
 
     defaultConfig {
         applicationId "com.neko68k.psxmc"
-        minSdkVersion 8
-        targetSdkVersion 8
+        minSdkVersion 21
+        targetSdkVersion 26
     }
 
     buildTypes {

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.neko68k.psxmc"
-      android:versionCode="0103120438"
-      android:versionName="1.02">
-    <uses-sdk android:minSdkVersion="8"/>
+      android:versionCode="20180127"
+      android:versionName="1.02.1">
+
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
 	
