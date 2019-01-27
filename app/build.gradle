@@ -5,7 +5,7 @@ android {
     buildToolsVersion "28.0.3"
 
     defaultConfig {
-        applicationId "com.neko68k.psxmc"
+        applicationId "com.topher.psxmc"
         minSdkVersion 21
         targetSdkVersion 26
     }
