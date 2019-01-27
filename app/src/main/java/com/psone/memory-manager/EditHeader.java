@@ -1,4 +1,4 @@
-package com.tutorials.hellotabwidget;
+package com.psone.memory-manager;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Spinner;
-import com.neko68k.psxmc.R;
+import com.topher-dev.psxmc.R;
 
 public class EditHeader extends Activity{
 	Spinner region;

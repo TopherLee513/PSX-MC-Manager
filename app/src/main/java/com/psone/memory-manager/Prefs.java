@@ -1,4 +1,4 @@
-package com.tutorials.hellotabwidget;
+package com.psone.memory-manager;
 
 import java.util.Map;
 
@@ -6,7 +6,7 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.preference.PreferenceManager;
-import com.neko68k.psxmc.R;
+import com.topher-dev.psxmc.R;
 
 public class Prefs extends PreferenceActivity {
 	@Override

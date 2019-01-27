@@ -1,4 +1,4 @@
-package com.tutorials.hellotabwidget;
+package com.psone.memory-manager;
 
 import java.io.BufferedOutputStream;
 import java.io.DataInputStream;
@@ -18,7 +18,7 @@ import android.os.Bundle;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.widget.TextView;
-import com.neko68k.psxmc.R;
+import com.topher-dev.psxmc.R;
 
 public class MemoryCard implements Parcelable {
 	

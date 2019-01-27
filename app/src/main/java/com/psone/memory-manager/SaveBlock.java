@@ -1,4 +1,4 @@
-package com.tutorials.hellotabwidget;
+package com.psone.memory-manager;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -8,7 +8,7 @@ import java.io.UnsupportedEncodingException;
 import android.graphics.Bitmap;
 import android.os.Parcel;
 import android.os.Parcelable;
-import com.neko68k.psxmc.R;
+import com.topher-dev.psxmc.R;
 
 public class SaveBlock implements Parcelable{
 	short magic;

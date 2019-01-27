@@ -1,4 +1,4 @@
-package com.tutorials.hellotabwidget;
+package com.psone.memory-manager;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import com.neko68k.psxmc.R;
+import com.topher-dev.psxmc.R;
 
 public class DescIconView extends LinearLayout{
 	private TextView mText = null;

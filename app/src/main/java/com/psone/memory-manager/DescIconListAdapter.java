@@ -1,4 +1,4 @@
-package com.tutorials.hellotabwidget;
+package com.psone.memory-manager;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-import com.neko68k.psxmc.R;
+import com.topher-dev.psxmc.R;
 
 public class DescIconListAdapter extends BaseAdapter{
 	/** Remember our context so we can use it when constructing views. */
@@ -18,7 +18,7 @@ public class DescIconListAdapter extends BaseAdapter{
     private ColorStateList defaultColors;
 
     private List<DescIconList> mItems = new ArrayList<DescIconList>();
-    
+
     public void clear(){
     	mItems.clear();
     }
@@ -63,7 +63,7 @@ public class DescIconListAdapter extends BaseAdapter{
             } else { // Reuse/Overwrite the View passed
                     // We are assuming(!) that it is castable!
                     div = (DescIconView) convertView;
-                    
+
                     if(mItems.get(position).isDeleted()){
                     	div.setColor(0xFFFF0000);
                     }
@@ -80,13 +80,13 @@ public class DescIconListAdapter extends BaseAdapter{
                 div.setText(mItems.get(position).getText());
                 div.setIcon(mItems.get(position).getIcon());
 
-                    
+
                     div.setProd(mItems.get(position).getmProd());
-                                
+
                     div.setID(mItems.get(position).getmID());
-                    
+
                     div.setRegion(mItems.get(position).getmRegion());
-                    
+
             }
             return div;
     }

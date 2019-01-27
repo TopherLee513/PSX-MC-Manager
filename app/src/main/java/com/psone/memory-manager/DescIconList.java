@@ -1,8 +1,8 @@
-package com.tutorials.hellotabwidget;
+package com.psone.memory-manager;
 
 import android.graphics.Bitmap;
 import android.widget.TextView;
-import com.neko68k.psxmc.R;
+import com.topher-dev.psxmc.R;
 
 public class DescIconList implements Comparable<DescIconList>{
 	
