@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\raw_blank_card.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\raw\\blank_card"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\layout_nomc.xml.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\layout\\nomc.xml"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_memcard.png.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable\\memcard.png"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_row.xml.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\layout_editheader.xml.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\layout\\editheader.xml"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_artists.xml.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable\\ic_tab_artists.xml"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.png.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_aa.png.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable\\no_aa.png"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_artists_white.png.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable\\ic_tab_artists_white.png"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_artists_grey.png.flat",
+        "source": "C:\\dev\\repos\\PSone-MemMan-Redux\\app\\src\\main\\res\\drawable\\ic_tab_artists_grey.png"
+    }
+]
