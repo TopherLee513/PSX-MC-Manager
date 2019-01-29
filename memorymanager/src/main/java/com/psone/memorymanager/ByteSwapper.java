@@ -1,7 +1,5 @@
 package com.psone.memorymanager;
 
-import com.topher.psxmc.R;
-
 /*
  * (C) 2004 - Geotechnical Software Services
  *

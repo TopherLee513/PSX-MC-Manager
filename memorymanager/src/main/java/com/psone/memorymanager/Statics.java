@@ -1,8 +1,5 @@
 package com.psone.memorymanager;
 
-import com.topher.psxmc.R;
-
-
 public class Statics {
 	
 	static MemoryCard[] cards = new MemoryCard[]{null,null};

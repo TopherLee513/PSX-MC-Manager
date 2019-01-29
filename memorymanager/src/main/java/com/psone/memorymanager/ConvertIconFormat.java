@@ -1,7 +1,6 @@
 package com.psone.memorymanager;
 
 import android.graphics.Bitmap;
-import com.topher.psxmc.R;
 
 
 // this converts the icon from psx format to 

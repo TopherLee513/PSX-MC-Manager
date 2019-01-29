@@ -1,5 +1,14 @@
 package com.psone.memorymanager;
 
+import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.os.Parcel;
+import android.os.Parcelable;
+import android.widget.TextView;
+
+import com.topher.psxmc.R;
+
 import java.io.BufferedOutputStream;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -10,15 +19,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
-
-import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.os.Bundle;
-import android.os.Parcel;
-import android.os.Parcelable;
-import android.widget.TextView;
-import com.topher.psxmc.R;
 
 public class MemoryCard implements Parcelable {
 	

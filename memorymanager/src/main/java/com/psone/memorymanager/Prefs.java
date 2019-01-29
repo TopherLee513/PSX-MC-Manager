@@ -1,12 +1,13 @@
 package com.psone.memorymanager;
 
-import java.util.Map;
-
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.preference.PreferenceManager;
+
 import com.topher.psxmc.R;
+
+import java.util.Map;
 
 public class Prefs extends PreferenceActivity {
 	@Override

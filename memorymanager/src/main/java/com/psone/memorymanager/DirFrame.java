@@ -1,12 +1,11 @@
 package com.psone.memorymanager;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
-
-import android.os.Parcel;
-import android.os.Parcelable;
-import com.topher.psxmc.R;
 
 public class DirFrame implements Parcelable{
 	int type;

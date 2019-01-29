@@ -11,4 +11,4 @@ Fork of: [PSX-MC-Manager](https://github.com/neko68k/PSX-MC-Manager)
     - Renamed package
  
 ## Known Issues:
-- Trying to change prefered memory card format in options will crash application if memory card file is opened
+- Trying to change preferred memory card format in options will crash application if memory card file is opened

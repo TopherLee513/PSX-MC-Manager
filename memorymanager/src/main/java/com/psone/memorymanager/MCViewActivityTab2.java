@@ -1,14 +1,13 @@
 package com.psone.memorymanager;
 
-import java.io.File;
-
 import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
-import com.topher.psxmc.R;
+
+import java.io.File;
 
 public class MCViewActivityTab2 extends ListActivity{
 
